@@ -1,0 +1,35 @@
+﻿  class13_3.cpp
+C:\Users\leenz\source\repos\class13_3\class13_3\class13_3.cpp(74,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+D:\Visual Studio\Community\VC\Tools\MSVC\14.33.31629\include\algorithm(3203,13): error C2678: бинарный "=": не найден оператор, принимающий левый операнд типа "const Time" (или приемлемое преобразование отсутствует)
+C:\Users\leenz\source\repos\class13_3\class13_3\Time.h(30,8): message : может быть "Time &Time::operator =(const Time &)"
+D:\Visual Studio\Community\VC\Tools\MSVC\14.33.31629\include\algorithm(3196,1): message : при попытке сопоставить список аргументов "(const Time, const _Ty)"
+          with
+          [
+              _Ty=Time
+          ]
+C:\Users\leenz\source\repos\class13_3\class13_3\class13_3.cpp(86): message : выполняется компиляция ссылки на экземпляр шаблон функции "void std::replace_if<std::_Tree_const_iterator<std::_Tree_val<std::_Tree_simple_types<Time>>>,Equal_s,Time>(const _FwdIt,const _FwdIt,_Pr,const _Ty &)"
+          with
+          [
+              _FwdIt=std::_Tree_const_iterator<std::_Tree_val<std::_Tree_simple_types<Time>>>,
+              _Pr=Equal_s,
+              _Ty=Time
+          ]
+D:\Visual Studio\Community\VC\Tools\MSVC\14.33.31629\include\xmemory(2027,17): error C2678: бинарный "=": не найден оператор, принимающий левый операнд типа "const Time" (или приемлемое преобразование отсутствует)
+C:\Users\leenz\source\repos\class13_3\class13_3\Time.h(30,8): message : может быть "Time &Time::operator =(const Time &)"
+D:\Visual Studio\Community\VC\Tools\MSVC\14.33.31629\include\xmemory(2017,1): message : при попытке сопоставить список аргументов "(const Time, const Time)"
+C:\Users\leenz\source\repos\class13_3\class13_3\class13_3.cpp(94): message : выполняется компиляция ссылки на экземпляр шаблон функции "_FwdIt std::remove_if<std::_Tree_const_iterator<std::_Tree_val<std::_Tree_simple_types<Time>>>,Equal_s>(_FwdIt,const _FwdIt,_Pr)"
+          with
+          [
+              _FwdIt=std::_Tree_const_iterator<std::_Tree_val<std::_Tree_simple_types<Time>>>,
+              _Pr=Equal_s
+          ]
+D:\Visual Studio\Community\VC\Tools\MSVC\14.33.31629\include\algorithm(233,15): error C2664: "void (Time &)": невозможно преобразовать аргумент 1 из "const Time" в "Time &"
+D:\Visual Studio\Community\VC\Tools\MSVC\14.33.31629\include\algorithm(233,15): message : В результате преобразования теряются квалификаторы
+C:\Users\leenz\source\repos\class13_3\class13_3\class13_3.cpp(104): message : выполняется компиляция ссылки на экземпляр шаблон функции "_Fn (__cdecl *std::for_each<std::_Tree_const_iterator<std::_Tree_val<std::_Tree_simple_types<Time>>>,void(__cdecl *)(Time &)>(_InIt,_InIt,_Fn))(Time &)"
+          with
+          [
+              _Fn=void (__cdecl *)(Time &),
+              _InIt=std::_Tree_const_iterator<std::_Tree_val<std::_Tree_simple_types<Time>>>
+          ]
+  Time.cpp
+  Создание кода...

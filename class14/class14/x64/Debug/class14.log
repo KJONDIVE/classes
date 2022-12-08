@@ -1,0 +1,4 @@
+﻿  class14.cpp
+C:\Users\leenz\source\repos\class14\class14\my_stack.h(5,1): warning C4005: DEFAULT_SIZE: изменение макроопределения
+C:\Users\leenz\source\repos\class14\class14\queue.h(5): message : см. предыдущее определение "DEFAULT_SIZE"
+  class14.vcxproj -> C:\Users\leenz\source\repos\class14\x64\Debug\class14.exe
