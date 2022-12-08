@@ -1,0 +1,5 @@
+﻿  class13.cpp
+C:\Users\leenz\source\repos\class13_1\class13\class13.cpp(69,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  Time.cpp
+  Создание кода...
+  class13.vcxproj -> C:\Users\leenz\source\repos\class13_1\x64\Debug\class13.exe

@@ -1,0 +1,4 @@
+﻿  class13_2.cpp
+C:\Users\leenz\source\repos\class13_2\class13_2\class13_2.cpp(44,2): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\leenz\source\repos\class13_2\class13_2\class13_2.cpp(96,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  class13_2.vcxproj -> C:\Users\leenz\source\repos\class13_2\x64\Debug\class13_2.exe
