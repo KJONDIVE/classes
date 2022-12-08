@@ -1,0 +1,6 @@
+﻿  Time.cpp
+  main.cpp
+  Создание кода...
+C:\Users\leenz\source\repos\class7\class7\Vector.h(80): warning C4715: Vector<int>::operator[]: значение возвращается не при всех путях выполнения
+C:\Users\leenz\source\repos\class7\class7\Vector.h(80): warning C4715: Vector<Time>::operator[]: значение возвращается не при всех путях выполнения
+  class7.vcxproj -> C:\Users\leenz\source\repos\class7\Debug\class7.exe
