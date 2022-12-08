@@ -1,0 +1,4 @@
+﻿  class11_4.cpp
+C:\Users\leenz\source\repos\class11_4\class11_4\class11_4.cpp(91,21): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\leenz\source\repos\class11_4\class11_4\class11_4.cpp(112,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  class11_4.vcxproj -> C:\Users\leenz\source\repos\class11_4\x64\Debug\class11_4.exe

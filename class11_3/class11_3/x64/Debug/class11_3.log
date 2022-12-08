@@ -1,0 +1,10 @@
+﻿  Time.cpp
+  Vector.cpp
+  class11_3.cpp
+C:\Users\leenz\source\repos\class11_3\class11_3\class11_3.cpp(9,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\leenz\source\repos\class11_3\class11_3\Vector.h(43,1): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\leenz\source\repos\class11_3\class11_3\Vector.h(36): message : во время компиляции функции-члена класс шаблон "Vector<Time>::Vector(int)"
+C:\Users\leenz\source\repos\class11_3\class11_3\class11_3.cpp(15): message : выполняется компиляция ссылки на экземпляр шаблон функции "Vector<Time>::Vector(int)"
+C:\Users\leenz\source\repos\class11_3\class11_3\class11_3.cpp(15): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "Vector<Time>"
+  Создание кода...
+  class11_3.vcxproj -> C:\Users\leenz\source\repos\class11_3\x64\Debug\class11_3.exe
