@@ -1,0 +1,13 @@
+﻿  class12_3.cpp
+C:\Users\leenz\source\repos\class12_3\class12_3\class12_3.cpp(7,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\leenz\source\repos\class12_3\class12_3\Container.h(53,1): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\leenz\source\repos\class12_3\class12_3\Container.h(41): message : во время компиляции функции-члена класс шаблон "Container<Time>::Container(int)"
+C:\Users\leenz\source\repos\class12_3\class12_3\class12_3.cpp(10): message : выполняется компиляция ссылки на экземпляр шаблон функции "Container<Time>::Container(int)"
+C:\Users\leenz\source\repos\class12_3\class12_3\class12_3.cpp(10): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "Container<Time>"
+C:\Users\leenz\source\repos\class12_3\class12_3\Container.h(118,1): warning C4267: аргумент: преобразование из "size_t" в "const int"; возможна потеря данных
+C:\Users\leenz\source\repos\class12_3\class12_3\Container.h(112): message : во время компиляции функции-члена класс шаблон "void Container<Time>::SumAvg(void)"
+C:\Users\leenz\source\repos\class12_3\class12_3\class12_3.cpp(24): message : выполняется компиляция ссылки на экземпляр шаблон функции "void Container<Time>::SumAvg(void)"
+  Container.cpp
+  Time.cpp
+  Создание кода...
+  class12_3.vcxproj -> C:\Users\leenz\source\repos\class12_3\x64\Debug\class12_3.exe
